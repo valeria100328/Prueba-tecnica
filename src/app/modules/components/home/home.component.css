@@ -14,7 +14,9 @@
 .header {
   margin-top: 60px;
 }
-
+.menu {
+  width: 100%;
+}
 .menu ul {
   list-style: none;
   margin: 0;
